@@ -1,4 +1,4 @@
-// This fuction finds the difference between 2 numbers
+// This fuction finds the difference between 2 numbers!
 function difference (num1, num2) {
     return num1 - num2;
 }
